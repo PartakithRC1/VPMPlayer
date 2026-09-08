@@ -5,10 +5,11 @@
 **Engine:** mpv · **Runtime:** .NET 8 · **UI:** Avalonia · **Portability:** Fully xcopy-deployable
 Bundled with 2026-08-11 [MPV](https://github.com/zhongfly/mpv-winbuild/releases?page=4#release-2026-08-11-f4d13e1c2c) [mpv-player/mpv@f4d13e1](https://github.com/mpv-player/mpv/commit/f4d13e1c2c91f3a56e589aef9cb44cbc02e26e47)
 ---
+[VirusTotal Scan](https://www.virustotal.com/gui/file/46a45c3a42e06849e19a35e823fa0fdfaaa892e43245cdea0e43426de35cac3d?nocache=1)
 Hello everyone! I was making this for myself but figured it couldn't hurt to share. I am not including the src at this moment :) but the code is by no means hard to get if you can't wait.
 The below description was generated and looked over by me...I feel as with anything it oversells it...some of the features need work or aren't where I want them to be yet. Which is why I would like people to get in touch!
 Keep an eye on this and I will upload a discord link in the near future. This current release is the "Alpha" so to speak as its only just gotten started.
----
+
 
 > Drop `mpv.exe` in a folder next to VPMPlayer, drop shaders in `shaders/`, and you have a
 > codec-agnostic, GPU-shader-capable, hotkey-driven media player that answers to nothing
