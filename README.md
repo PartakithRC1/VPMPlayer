@@ -1,5 +1,5 @@
 # 🎬 VPMPlayer
-
+![Preview](./SampleImage001.png)
 ### *A portable mpv frontend*
 
 **Engine:** mpv · **Runtime:** .NET 8 · **UI:** Avalonia · **Portability:** Fully xcopy-deployable
