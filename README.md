@@ -3,7 +3,7 @@
 ### *A portable mpv frontend*
 
 **Engine:** mpv · **Runtime:** .NET 8 · **UI:** Avalonia · **Portability:** Fully xcopy-deployable
-
+Bundled with 2026-08-11 [MPV](https://github.com/zhongfly/mpv-winbuild/releases?page=4#release-2026-08-11-f4d13e1c2c) [mpv-player/mpv@f4d13e1](https://github.com/mpv-player/mpv/commit/f4d13e1c2c91f3a56e589aef9cb44cbc02e26e47)
 ---
 Hello everyone! I was making this for myself but figured it couldn't hurt to share. I am not including the src at this moment :) but the code is by no means hard to get if you can't wait.
 The below description was generated and looked over by me...I feel as with anything it oversells it...some of the features need work or aren't where I want them to be yet. Which is why I would like people to get in touch!
