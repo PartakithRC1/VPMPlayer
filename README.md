@@ -1,6 +1,7 @@
 # 🎬 VPMPlayer
 ![Preview](./SampleImage001.png)
 ### *A portable mpv frontend*
+[![GitHub All Releases](https://img.shields.io/github/downloads/PartakithRC1/VPMPlayer/total)](https://github.com/PartakithRC1/VPMPlayer/releases) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/PartakithRC1/VPMPlayer)](https://github.com/PartakithRC1/VPMPlayer/releases/latest)
 
 **Engine:** mpv · **Runtime:** .NET 8 · **UI:** Avalonia · **Portability:** Fully xcopy-deployable
 Bundled with 2026-08-11 [MPV](https://github.com/zhongfly/mpv-winbuild/releases?page=4#release-2026-08-11-f4d13e1c2c) [mpv-player/mpv@f4d13e1](https://github.com/mpv-player/mpv/commit/f4d13e1c2c91f3a56e589aef9cb44cbc02e26e47)
